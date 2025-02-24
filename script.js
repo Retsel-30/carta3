@@ -11,8 +11,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Mostrar mensaje
         Swal.fire({
-            title: '¡La mejor respuesta! 💖',
-            text: 'Esta noche sera mágico...',
+            title: '¡La mejor respuesta Mishell! 💖',
+            text: 'Esta noche sera mágico...💖',
             icon: 'success',
             confirmButtonText: '¡Estoy lista! 🌹'
         });
