@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Mostrar mensaje
         Swal.fire({
             title: '¡La mejor respuesta! 💖',
-            text: 'Este San Valentín sera mágico...',
+            text: 'Esta noche sera mágico...',
             icon: 'success',
             confirmButtonText: '¡Estoy lista! 🌹'
         });
